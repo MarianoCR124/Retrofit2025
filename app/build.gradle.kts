@@ -3,6 +3,7 @@ plugins {
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
 }
+//mariano contreras esta presente 
 
 android {
     namespace = "com.example.retrofit2025"
